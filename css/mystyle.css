@@ -1,8 +1,13 @@
 :root {
     --bs-primary: #003399;
     --bs-primary-rgb: 0, 51, 153;
+    --bs-link-color: #003399;
 }
 
 #interests .progress {
     margin: 1em 0;
+}
+
+.progress {
+    --bs-progress-bar-bg: #003399;
 }
