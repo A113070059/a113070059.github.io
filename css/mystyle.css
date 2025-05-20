@@ -1,3 +1,8 @@
+:root {
+    --bs-primary: #000080;
+    --bs-primary-rgb: 0, 0, 128;
+}
+
 #interests .progress {
     margin: 1em 0;
 }
