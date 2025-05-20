@@ -1,6 +1,6 @@
 :root {
-    --bs-primary: #000080;
-    --bs-primary-rgb: 0, 0, 128;
+    --bs-primary: #003399;
+    --bs-primary-rgb: 0, 51, 153;
 }
 
 #interests .progress {
