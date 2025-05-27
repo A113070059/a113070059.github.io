@@ -3,11 +3,11 @@
     --bs-primary-rgb: 0, 51, 153;
     --bs-link-color: #003399;
     --bs-link-hover-color: #001236;
-    --bs-body-font-family: "Noto Sans TC", sans-serif;
+    --bs-body-font-family: "Oswald", "Noto Sans TC", sans-serif;
 }
 
 h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
-    font-family: "Noto Sans TC", sans-serif;
+    font-family: "Oswald","Noto Sans TC", sans-serif;
     font-weight: 700;
     line-height: 1.2;
     margin-bottom: 0.5rem;
@@ -18,11 +18,11 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
   }
 
 h1, .h1 {
-    margin-bottom: 2rem !important;
+    margin-bottom: 1rem !important;
 }
 
 .subheading {
-    font-family: "Noto Sans TC", sans-serif;
+    font-family: "Inter", "Noto Sans TC", sans-serif;
     font-weight: 500;
 }
 
